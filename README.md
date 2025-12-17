@@ -89,7 +89,7 @@ Add cloud-related tools
 Quantify project outcomes
 
 ---
-🔑 API Details
+## 🔑 API Details
 
 Provider: Groq
 
@@ -119,36 +119,14 @@ Resume analysis is real-time
 
 No persistent storage needed
 
-🔮 Future Enhancements
 
-Hybrid scoring (ML + LLM)
-
-Resume comparison dashboard
-
-PDF report download
-
-User authentication
-
-Database-backed analytics
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Prajwal Kindre
 B.E. Artificial Intelligence & Data Science
 
 📌 Interests: Backend Development • AI/ML • NLP • LLMs
 
-⭐ Final Note for Recruiters
-
-This project reflects my ability to:
-
-Integrate real-world AI APIs
-
-Design scalable AI systems
-
-Build clean UI-driven applications
-
-Solve practical industry problems using LLMs
 
 # ATS-Resume-Scorer-LLM
 LLM-based ATS Resume Scorer using Streamlit and Groq API
