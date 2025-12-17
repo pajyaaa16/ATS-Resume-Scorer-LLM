@@ -1,3 +1,4 @@
+
 # 📄 ATS Resume Scorer — LLM Powered
 
 An **LLM-based Applicant Tracking System (ATS)** that evaluates resumes against job descriptions using a real Large Language Model.  
@@ -148,3 +149,7 @@ Design scalable AI systems
 Build clean UI-driven applications
 
 Solve practical industry problems using LLMs
+
+# ATS-Resume-Scorer-LLM
+LLM-based ATS Resume Scorer using Streamlit and Groq API
+
